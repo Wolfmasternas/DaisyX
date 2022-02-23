@@ -1,12 +1,14 @@
 {
   "name": "DaisyX",
-  "description": "?",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by Wolfmasternas",
   "keywords": [
-    "telegram",
     "Daisy",
     "plugin",
     "telegram-DaisyX",
-    "fuck-TG"
+    "fuck-TG",
+    "music",
+    "voicechat",
+    "telegram"
   ],
   "repository": "https://github.com/Wolfmasternas/DaisyX",
   "website": "daisyproject.studio",
